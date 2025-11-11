@@ -11,13 +11,9 @@ Welcome! This repository showcases selected academic and personal projects demon
   Python-based supermarket analytics & recommendation system with GitLab CI/CD.  
   📁 Folder: [`FIT5136_Applied_Project`](./FIT5136_Applied_Project)
 
-- **FIT5137 Spatial Accessibility Analysis (coming soon)**  
-  PostGIS & QGIS analysis of bus-stop coverage in Melbourne.  
-  📁 Folder: `FIT5137_Spatial_Analysis` (to be added)
-
-- **FIT9131 Java OOP Game (coming soon)**  
-  Text-based game applying inheritance/encapsulation.  
-  📁 Folder: `FIT9131_Java_Game` (to be added)
+- **FIT5057 Project Management – Cost & Risk Analysis**
+  - Deliverables: Project Charter (A1) and Risk Register & Cost Baseline (A2)
+  - 📂 Repository: [FIT5057_Project_Management](https://github.com/rongzema44-ui/FIT5057_Project_Management)
 
 ---
 
