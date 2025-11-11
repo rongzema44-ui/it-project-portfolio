@@ -1,0 +1,210 @@
+{
+    "123@monash.edu": {
+        "email": "123@monash.edu",
+        "password": "123",
+        "first_name": "sun",
+        "last_name": "chao",
+        "date_of_birth": "11/1/1",
+        "gender": "Male",
+        "mobile_number": "17639988615",
+        "address": "somehitnn",
+        "balance": 278.0,
+        "is_vip": true,
+        "orders": [
+            {
+                "id": "ORDER_1",
+                "items": {
+                    "6": {
+                        "product": {
+                            "id": "6",
+                            "name": "Bread",
+                            "brand": "Bakery",
+                            "description": "Freshly baked bread",
+                            "category": "Food",
+                            "price": 5,
+                            "member_price": 4.5,
+                            "quantity": 49,
+                            "expiration_date": "10/10/2025",
+                            "ingredients": "Flour, Water, Yeast",
+                            "storage_instructions": "Keep dry",
+                            "allergens": "Gluten"
+                        },
+                        "quantity": 1
+                    }
+                },
+                "total_price": 25,
+                "date": "01/10/2025"
+            },
+            {
+                "id": "ORDER_2",
+                "items": {
+                    "1": {
+                        "product": {
+                            "id": "1",
+                            "name": "Laptop",
+                            "brand": "Dell",
+                            "description": "High performance laptop",
+                            "category": "Electronics",
+                            "price": 1200,
+                            "member_price": 1100,
+                            "quantity": 8,
+                            "expiration_date": null,
+                            "ingredients": null,
+                            "storage_instructions": null,
+                            "allergens": null
+                        },
+                        "quantity": 2
+                    }
+                },
+                "total_price": 2220,
+                "date": "11/10/2025"
+            },
+            {
+                "id": "ORDER_3",
+                "items": {
+                    "1": {
+                        "product": {
+                            "id": "1",
+                            "name": "Laptop",
+                            "brand": "Dell",
+                            "description": "High performance laptop",
+                            "category": "Electronics",
+                            "price": 1200,
+                            "member_price": 1100,
+                            "quantity": 6,
+                            "expiration_date": null,
+                            "ingredients": null,
+                            "storage_instructions": null,
+                            "allergens": null
+                        },
+                        "quantity": 2
+                    }
+                },
+                "total_price": 2220,
+                "date": "11/10/2025"
+            },
+            {
+                "id": "ORDER_4",
+                "items": {
+                    "6": {
+                        "product": {
+                            "id": "6",
+                            "name": "Bread",
+                            "brand": "Bakery",
+                            "description": "Freshly baked bread",
+                            "category": "Food",
+                            "price": 5,
+                            "member_price": 4.5,
+                            "quantity": 49,
+                            "expiration_date": "10/10/2025",
+                            "ingredients": "Flour, Water, Yeast",
+                            "storage_instructions": "Keep dry",
+                            "allergens": "Gluten"
+                        },
+                        "quantity": 1
+                    }
+                },
+                "total_price": 24.5,
+                "date": "13/10/2025"
+            },
+            {
+                "id": "ORDER_5",
+                "items": {
+                    "6": {
+                        "product": {
+                            "id": "6",
+                            "name": "Bread",
+                            "brand": "Bakery",
+                            "description": "Freshly baked bread",
+                            "category": "Food",
+                            "price": 5,
+                            "member_price": 4.5,
+                            "quantity": 48,
+                            "expiration_date": "10/10/2025",
+                            "ingredients": "Flour, Water, Yeast",
+                            "storage_instructions": "Keep dry",
+                            "allergens": "Gluten"
+                        },
+                        "quantity": 1
+                    }
+                },
+                "total_price": 24.5,
+                "date": "13/10/2025"
+            }
+        ],
+        "membership_history": [
+            {
+                "date": "2025-09-18",
+                "cost": 20
+            },
+            {
+                "date": "2025-10-11 21:54:13",
+                "cost": 40,
+                "years": 2,
+                "type": "VIP Purchase",
+                "expiry": "2027-10-11"
+            },
+            {
+                "date": "2025-10-11 21:54:35",
+                "cost": 20,
+                "years": 1,
+                "type": "VIP Purchase",
+                "expiry": "2028-10-11"
+            }
+        ],
+        "vip_expiry": "2028-10-11"
+    },
+    "dongsunchao@monash.edu": {
+        "email": "dongsunchao@monash.edu",
+        "password": "Ds123456789",
+        "first_name": "sunchao",
+        "last_name": "dong",
+        "date_of_birth": "11/11/2000",
+        "gender": "Male",
+        "mobile_number": "176399881616",
+        "address": "Marshall ",
+        "balance": 1000,
+        "is_vip": false,
+        "orders": [],
+        "membership_history": []
+    },
+    "student@student.monash.edu": {
+        "email": "student@student.monash.edu",
+        "password": "Monash1234!",
+        "first_name": "student",
+        "last_name": "Monash",
+        "date_of_birth": "11/11/2000",
+        "gender": "Male",
+        "mobile_number": "123456789",
+        "address": "MOnash uni clayton",
+        "balance": 985,
+        "is_vip": false,
+        "orders": [
+            {
+                "id": "ORDER_1",
+                "items": {
+                    "6": {
+                        "product": {
+                            "id": "6",
+                            "name": "Bread",
+                            "brand": "Bakery",
+                            "description": "Freshly baked bread",
+                            "category": "Food",
+                            "price": 5,
+                            "member_price": 4.5,
+                            "quantity": 46,
+                            "expiration_date": "10/10/2025",
+                            "ingredients": "Flour, Water, Yeast",
+                            "storage_instructions": "Keep dry",
+                            "allergens": "Gluten"
+                        },
+                        "quantity": 2
+                    }
+                },
+                "total_price": 10,
+                "date": "13/10/2025"
+            }
+        ],
+        "membership_history": []
+    }
+}

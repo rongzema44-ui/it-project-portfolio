@@ -1,0 +1,28 @@
+{
+    "NEWMONASH20": {
+        "discount": 0.2,
+        "description": "20% off for first-time pickup order",
+        "conditions": {
+            "first_time_pickup": true,
+            "pickup_only": true,
+            "min_order": 0
+        }
+    },
+    "VIP10": {
+        "discount": 0.1,
+        "description": "10% off for VIP members",
+        "conditions": {
+            "vip_only": true,
+            "min_order": 50
+        }
+    },
+    "MONASH15": {
+        "discount": 0.15,
+        "description": "15% off for Monash students on delivery",
+        "conditions": {
+            "monash_only": true,
+            "delivery_only": true,
+            "min_order": 30
+        }
+    }
+}
